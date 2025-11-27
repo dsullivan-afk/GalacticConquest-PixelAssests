@@ -1,0 +1,26 @@
+{
+  "assets": [
+    { "id": "c1", "title": "Human Commander (M)", "category": "characters", "src": "pixel_art_male_sci-fi_commander_sprite.png", "description": "Sleek black/silver armor, visor, utility belt.", "resolution": "32px", "complexity": "High", "typeLabel": "Hero", "isPro": true },
+    { "id": "c2", "title": "Human Commander (F)", "category": "characters", "src": "pixel_art_female_sci-fi_commander_sprite.png", "description": "Sleek black/silver armor, visor, tactical gear.", "resolution": "32px", "complexity": "High", "typeLabel": "Hero", "isPro": true },
+    { "id": "c3", "title": "Alien Soldier (Blue)", "category": "characters", "src": "pixel_art_alien_soldier_blue_variant.png", "description": "Bioluminescent patterns, laser rifle weaponry.", "resolution": "32px", "complexity": "Medium", "typeLabel": "Unit", "isPro": false },
+    { "id": "c4", "title": "Alien Soldier (Red)", "category": "characters", "src": "pixel_art_alien_soldier_red_variant.png", "description": "Aggressive stance, energy blade weaponry.", "resolution": "32px", "complexity": "Medium", "typeLabel": "Unit", "isPro": false },
+    { "id": "c5", "title": "Alien Soldier (Green)", "category": "characters", "src": "pixel_art_alien_soldier_green_variant.png", "description": "Toxic resilience, plasma cannon weaponry.", "resolution": "32px", "complexity": "Medium", "typeLabel": "Unit", "isPro": false },
+    { "id": "c6", "title": "Alien Soldier (Purple)", "category": "characters", "src": "pixel_art_alien_soldier_purple_variant.png", "description": "Elite guard, dual energy pistols.", "resolution": "32px", "complexity": "High", "typeLabel": "Unit", "isPro": true },
+    
+    { "id": "v1", "title": "Heavy Tank", "category": "vehicles", "src": "pixel_art_sci-fi_heavy_tank.png", "description": "Green camo, twin cannons, tread tracks.", "resolution": "64px", "complexity": "High", "typeLabel": "Ground", "isPro": true },
+    { "id": "v2", "title": "Hover Rover", "category": "vehicles", "src": "pixel_art_sci-fi_hover_rover.png", "description": "Exploration vehicle, anti-gravity, sensors.", "resolution": "64px", "complexity": "Medium", "typeLabel": "Scout", "isPro": false },
+
+    { "id": "s1", "title": "Defense Turret", "category": "structures", "src": "pixel_art_defense_turret.png", "description": "Stationary defense, laser barrel, metallic.", "resolution": "64px", "complexity": "Medium", "typeLabel": "Defense", "isPro": false },
+    { "id": "s2", "title": "Power Generator", "category": "structures", "src": "pixel_art_power_generator.png", "description": "Industrial energy source, blue core.", "resolution": "64px", "complexity": "Medium", "typeLabel": "Utility", "isPro": false },
+
+    { "id": "e1", "title": "Home Planet Surface", "category": "environments", "src": "pixel_art_home_planet_environment_tileset.png", "description": "Rocky terrain, exotic flora, spaceport tiles.", "resolution": "128px+", "complexity": "High", "typeLabel": "Tileset", "isPro": true },
+    { "id": "e2", "title": "Lava Planet Surface", "category": "environments", "src": "pixel_art_lava_planet_tileset.png", "description": "Volcanic rock, magma flows, ash ground.", "resolution": "128px+", "complexity": "High", "typeLabel": "Tileset", "isPro": true },
+    { "id": "e3", "title": "Asteroid Battlefield", "category": "environments", "src": "pixel_art_asteroid_battlefield_background.png", "description": "Floating asteroids, deep space background.", "resolution": "128px+", "complexity": "Medium", "typeLabel": "Background", "isPro": true },
+    { "id": "e4", "title": "Space Station", "category": "environments", "src": "pixel_art_space_station_environment.png", "description": "Metallic structures, neon glows, docking bays.", "resolution": "128px+", "complexity": "High", "typeLabel": "Tileset", "isPro": true },
+
+    { "id": "u1", "title": "UI Icon Set", "category": "ui", "src": "pixel_art_ui_icon_set.png", "description": "Resources (Metal, Energy, Food), Menu Icons.", "resolution": "16px", "complexity": "Low", "typeLabel": "Icons", "isPro": false },
+    { "id": "u2", "title": "HUD Elements", "category": "ui", "src": "pixel_art_hud_elements.png", "description": "Health/Shield bars, Minimap frame, Dashboard.", "resolution": "Mixed", "complexity": "Medium", "typeLabel": "Interface", "isPro": false },
+
+    { "id": "m1", "title": "Galactic Map", "category": "map", "src": "pixel_art_galactic_map_planets_and_stars.png", "description": "Stars, Planets, Travel Routes.", "resolution": "Mixed", "complexity": "Medium", "typeLabel": "Map", "isPro": false }
+  ]
+}
